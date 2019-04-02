@@ -1,23 +1,395 @@
 # Philosophy 哲学殿堂
 
-## Introduction
+## Introduction 简介
 
-## Plato
+There is a pleasure in philosophy, and a lure even in the mirages of metaphysics, which every student feels until the coarse necessities of physical existence drag him from the heights of thought into the mart of economic strife and gain. Most of us have known some golden days in the June of life when philosophy was in fact what Plato calls it, "that dear delight"; whfcn the love of a modestly elusive Truth seemed more glorious, incomparably, than the lust for the ways of the flesh andthedrossoftheworld. Andthereisalwayssomewistful remnant in us of that early wooing of wisdom. "Life has meaning," we feel with Brdwniiig—"to find its meaning is my meat and drink." So much of our lives is meaningless, a self- cancelling vacillation and futility; we strive with the chaos about us and within; but we would believe all the while that therie is something vital and significant in us; could but decipher our own soiils. We want to understand ; '-life means for us constantly to transform into light and flame all that we are or meet with"; 1 we are like Mityaini The Brothers.' Karamazov—"one of those who don't want millions, but an answer to their questions" ; we want to seize the value and per- spective of passing things, and so to pull ourselves up out of the maelstrom of daily circum$tianee. We want to know that the little things are little, tod the big things big^ before it is too late ; we want to see things now as they will seem forever-^- "in the light of eternity." We want to learn to laugh in the face of the inevitable, to smile even at the looming of death. We want to be whole, to coordinate our energies by criticizing and harmonizing our desires; for coordinated energy: is the
 
+那个时候，人们对于哲学谦卑的，难以名状的爱，是如此的荣光，以至于肉身的欲望和世间的糟粕也无法掩盖其光芒。
+wistful remnant 残心：回忆
+2.爱情与我，不是什么伟大梦想，是我的一饭一蔬。——《情人》
+3.light and flame——智慧，热情
+4.我们不想要金山银山，我们想要的是一个答案。
+5.We want to seize the value and perspective of passing things.我们最大的敌人是时间，冯唐：用文字打败时间。人在面对时间是，都是过客。人的终极只不过是指向时间的尽头
+6.We want to know what earth is earth,and human human,before it is too late.重复式写法
+7.学哲学要调和欲望，不是克制欲望，也就是昨天笔记里所说的“天理即人欲”。coordinate desires.
+8.找到你脑海中最美好的事情，要么所有的事情都回来，要不丢失事情后也不会怅然若失。君子务本，本立而道生。
+Seek ya frist the good things of the mind,and the rest will either be supplied or its loss will not be felt.
+9.真理不会让我们有钱，但能让我们做一个自由而无用的灵魂。Truth will not make us rich，but it will make us free
+10.Philosophy is as useless as chess,as obscure as ignorance,and as stagnant as content.
+11.except 神补刀的关键词
+12.resolve 宣誓
+13.Science seems always to advance,while philosophy seems always to lose ground
+哲学为始，艺术为终。
+哲学解决的是方法论的问题14
+哲学是排头兵，科学是被征服的领土，在科学之后建立了以知识和艺术创造了我们不完美的完美世界。
+哲学像是一个的老兵，孤独地站着。将胜利的果实留给了各种科学学科，慨然探索，去不确定的、危险的地方，自己泰然前行。
+Science is the captured territory；and behind it are those secure regions in which knowledge and art build our imperfect and  marvelous world. Philosophy seems to stand still,perplexed;but only because she leaves the fruits of victory to her daughters the science,and herself passes on,divinely discontent, to the uncertain and unexplored.
+
+#哲学的故事#2/50
+1.Science is analytical description，philosophy is synthetic interpretation.
+科学是一个分析性的描述，哲学是一个合成性的解读。
+2.Science tell us how to heal and how to kills;it reduces the death rate in retail and then kills us wholesale in war;but only wisdom can tell us when to heal and when to kill.
+科学能解决我们如何治愈人或者如何杀死人；科学慢慢进步，减少了死亡率，然后它却让我们在现代战争里死伤无数，但哲学能告诉我们什么去治疗人什么，时候去杀人。
+3.To observe processes and to construct means is science;to criticize and coordinate ends is philosophy.科学在乎注重过程，哲学在乎的是终极价值.
+4.In these days our means and instruments have multiplied beyond our interpretation and synthesis of ideals and ends,our life is full of sound and fury,signifying nothing.
+所以以后写作文别写With the development of science and technology，
+5.以后用only.except有很强的聚焦感。
+6.哲学系不一定理解哲学，因为很多把哲学科学化了。
+7.Do you know? the secret of the true scholar? In every man there is something wherein I may learn of him;and in that I am his pupil.你知道吗，什么是老师？三人行必有我师焉。不耻下问。
+8.We may flatter ourselves with thought that when genius speak to us we feel a ghostly reminiscence of having ourselves ,in our distant youth,had vaguely this selfsame thought which genius now speaks,but which we had not art or courage to clothe with form and utterance.我们会有这样的感觉：在我们青年时候是有一些模糊的想法，但是表述能力太Low，只有天才才能将那些想法表达出来，你如果读到这些天才的话语，你会感到洋洋自得。
+9.Genius hears the overtones，and the music of the spheres;genius knows what Pythagoras（毕达哥拉斯：看满天的繁星，可以听到音乐的变化） menat when he said that philosophy is the highest music.
+天才可以听出弦外之音和宇宙中的音乐；天才知道哲学是最高形式的音乐。
+
+  #哲学的故事#3/50
+throbbing
+seclusion and stagnation
+1.地缘决定文化的发展：决定分析与思考 
+2.Probably the traders were the first sceptics ：they had seen too much to believe too much.商人们见多识广，所以有思辨与怀疑，所以有可能是第一批哲学家.3⃣️.自然对数的出现是没有复利的，发现复利增长的最后稳定到一个值，是自然对数。
+4.哲学刚开始是物理：物质的最小形式是什么。比如，Democritus德谟克利特的原子论：in reality there is nothing but atoms and space.世界是由原子组成的。
+5.Epicurus，提倡哲学的目的是达到宁静的状态，去享乐。反对动态的快乐，因为动态的快乐有峰值便有低谷。所以他所提倡的快乐不是花天酒地，而是削减欲望。
+6.对于'人'的关注 是哲学与科学的第一次分野。7.Rousseau卢梭【论人类起源的不平等】：人之初，性本善，认为人生而平等，法律让强者恒强，弱者恒弱。8.Nietzsche尼采：人从生下来就不平等。所谓的仁义道德是弱者限制强者的，弱者不能用道德绑架强者，所以掌权者一定要是贵族制。
+
+ #哲学的故事#   day4
+1.Socrates was as far from being handsome as even a philosopher can be.哲学家特别丑，但是苏格拉底丑的连哲学家都不如。
+2.苏格拉底是个秃顶男人，大圆脸，眼窝深陷，鼻子很扁，鼻子如花一样绽放（鼻孔大）。样子看上去像个酒店保安的邻班，而不是一个有名的哲学家
+3.unassuming simplicity 朴拙 。拙：不是笨 是返璞归真
+4.No institution could have been more democratic【卢梭】，nor，said its opponents，more absurd【尼采】.
+5Peloponnesian war 伯罗奔尼撒战争史是研究国际关系的最经典的原材料。
+6民主制inefficiency效率低。7⃣️.Symposium开会，一些男人们光着腚泡澡吹牛抚摸。很醉。
+
+#哲学的故事#   day5
+1.不要忙，要闲。'忙'是心亡；'闲'是门里种颗树。要给自己反思的时间，莫空忙。在自己的城堡里种个树：In me the tiger sniffes the rose.我的内心有猛虎，在细嗅蔷薇。
+2Xanthippe 苏格拉底的老婆 旱妇，和苏格拉底话一样多，老骂他。说苏格拉底是：good for nothing idler养了二正(东北话：类似于傻X，猥琐男)who brought to his family more notoriety than bread.为家里带回来的是丑名昭著不是面包。但是她却很爱他。Yet she loved him，and could not contentedly see him die even after 70.
+3酒品好，不怕喝也不多喝：drink like a gentleman—without fear and without excess.
+4.amateur 不是贬义 最好不要翻译为业余爱好者，业余有些贬义味道，翻译成爱好者好。就是热爱，不是职业。
+5.agnosticism ：不可知论one thing only I know，and that is that I know nothing.我唯一知道的是我不知道任何事。
+6.黑格尔：哲学是黄昏起飞的密涅瓦的猫头鹰。当开始有怀疑，哲学便起航了。
+7.Mind turns round and examines yourself：Know thyself.掌握自己，认清自己。
+8.自然哲学家：Thales泰勒斯：米利都学派。希腊七贤之一，给金字塔测出来高度，测出日蚀，认为水是万物之源，信仰万物有灵，多神论者。Heraclutus赫拉克利特：认为火是万物之源，万物之流，名言是一个人不能两次踏入同一条河流，以动态眼光看问题，对立统一的看问题，是当时希腊许多哲学家不具备的。Parmenides 万物在变 本质不变。
+9.苏克拉底说 哟，不错呦 这老多哲学家，但是他们没有关注人的灵魂。That is good，but there is an infinitely worthier subject for philosophers than all these trees and stones，and even all those stars；there is the mind of man.what is man，and what can he become？
+
+#哲学的故事#   day 6
+1.苏格拉底：正义是什么？为什么他可以轻易地决定人的生死？
+2.苏克拉底法：要求精确的定义 清晰的思考 和严格的分析，问得比答案多，让人有一种比问之前更糊涂的感觉。This demand for accurate definitions，and clear thinking，and exact analysis，objected that he asked more than he answered，and left men's minds more confused than before.
+3.苏格拉底批判雅典的人们是没有选择的选择，按照字母随机选人。alphabetical rotation
+4.苏格拉底用他的死亡与不朽回答了他自己提出的问题。
+5.精英与那些无知的人一样都有欲望，只不过是会克制自己，更没有可能做出如野兽般的行为。The intelligent man may have the same violent and unsocial impulses as the ignorantan,but surely he will control them better，and slip less often into imitationof the beast
+6.predicted precisely 言之凿凿
+
+#哲学的故事#   day 7 
+1.even smile at looming of death面对死亡 悲欣交集。
+2.between liberty3⃣️苏格拉底就像是父亲 我们剩下来的生命就好像是孤儿一半。
+4.从此世到彼世的路程是繁荣的我们的眼泪夺眶而出，不是因为他而哭，而是我失去了最好的伴侣。
+5当毒药到达我的心脏时，我就死了。
+6.苏格拉底之死平静地就像是应该发生的，那些暴民从某些层面上成全了苏格拉底，让雅典人意识到民主的缺陷。
+
+
+
+## Plato 柏拉图
+
+#哲学的故事#   day 8
+1.柏拉图从小养尊处优：He has been brought up in comfort.
+2.柏拉图是一个优秀的士兵，获得了两次地峡运动会的嘉奖，此运动会是纪念海神的。
+3.因为苏格拉底对教条的颠覆（deflating dogmas）和对假设的一针见血（puncturing presumptions with the sharp point of his questions），让柏拉图感到了快乐。柏拉图对思辨很感兴趣就像他先前喜欢摔跤一样。
+4.gad-fly 知识分子的风骨
+5.pass from A to B and C.表示递进，比如 He passed from mere debate to careful analysis and fritful discussion.
+6.above all 递进的最高点.
+7.pupil：人的眼球；学徒(老师与学生关系紧密)。有一句话说你是我的至爱：You are the pupil of my eye.
+8.lineage and breeding:生，养，环境。
+9.苏格拉底之死以及柏拉图的生养环境让柏拉图有了阳刚般的决心：民主必须被摧毁，最优秀的人才能管理国家。Democracy must be destroyed,to be replaced by the rule of the wisest and the best.
+10.管理团队是一定要证明权力的来源合法。九三阅兵，登基大典，就职演说，证明权力来源的合法性。
+靠文件；做事影响；规章制度。
+11.许多优秀的人希望做一个自由而无用的灵魂，所以找到他们还得进行劝说，才能让他们管理国家。（discovered，enabled，persuaded）
+12.柏拉图28岁，云游十二载。有时候上路的原因不是自己选择的，没有外部力量，我们不倾向于离开。但是当你离开舒适区，你会发现旅途里发现的意义是不一样的，也就产生了旅途的二次意义。莎士比亚也是有一段消失的时间，回来摇身一变变成了大文豪。
+13.merry war 很开心的争论。冤亲词，就是词是对立的，合在一起同时使用，产生了巨大语言效果。bitter sweet.苦中有甜
+14.毕达哥拉斯：万物皆数。假设出发是思维的起点。宇宙就是数字。
+15.埃及少数人对多数人的管理（通过神学）。在西西里，毕达哥拉斯学派控制着社会，但他们却过着凭单的生活，没有权力的滥用。可能就是这些经历给柏拉图启发，建立理想国。
+
+#哲学的故事#  day9
+1.Never before，Never since.前无古人，后无来者。
+Never before，we may believe,had philosophy assumed so briliant a garb;and surely never since.柏拉图哲学的优美，前无古人，后无来者。
+此句子甚好：Never before，引起你兴趣。we may believe 悬停，做插入语。前面否定结构，had 倒装。never since后面省略。
+2.Even in translation this style shines and sparkles and leaps and bubbles over.此句子连续用and强烈的递进感。四个动词用的很有代入感！即便在翻译中，这种风格闪耀着，迸发出火花，火花跳跃着，变成火泡亮瞎你的眼。Style shines and sparkle 押头韵
+3.毛姆：写作三要素：Simlicity，Lucidity，uphine简单清楚音乐美。写完文章后大声读出来。
+4.Shelley 英国浪漫主义代表之一：Plato exhibits the rare union of close and subtle logic with the enthusiasm of poetry,melted by the splendor and harmony of his periods into one irresistible stream of musical imprsions,which hurry the persuasions onward as in a breathless career.
+表扬柏拉图作为哲学家是一个，美好的职业，美好到了难以呼吸。
+5.好多东西看起来不相关，还有一些调味品，这些调味品是你在吃不下哲学大餐里盛宴时候的一个调剂。作者的潜台词是柏拉图的著作就是很简单易懂的，让你没有畏难情绪。
+6.invite vanities to the fire.放火烧.... 下次可以用这个结构比如说衰老引起死亡 Old age invite him to the death
+
+#哲学的故事#  day 11
+1.What is justice？——shall we seek righteousness,or shall we seek power?——is it better to be good，or to be strong？正义是什么？我们必须要找寻正确，还是寻找权力？当一个好人，还是当一个权力中心？这是道德中的一个难点。柏拉图是强人世界观——弱者利用道德来限制强者。
+2.Justice is a relation among individuals,depending on social organization;and that in consequence it can be studied better as part of the structure of a community than as a quality of personal conduct.柏拉图认为正义是在社会组织框架下讨论的，而不是个人行为决定的。所以要研究社群结构。
+3.看一个人视力好不好，先从大的字来检测。因此柏拉图认为，将正义放大到国家的层面来研究比直接研究个体要容易得多，宏观到微观，演绎法。而他的学生亚里士多德与中国的儒家由内向外，修身齐家治国平天下，微观到宏观，归纳法。
+4.Justice would be a simple matter if men were simple；an anarchist communism would suffice.
+如果人心简单，那么正义也很简单，无政府主义就够了。潜台词：正因为人的内心复杂，所以正义才变得复杂
+5.【理想国】infanticide 杀婴儿。控制人口数量：如果生下来的小孩没有足够的食物的话，柏拉图要求把这些婴儿杀掉。（K对策）
+6.第欧根尼斯：cynic，犬儒主义，唱反调的：turn and live with the animals, they are so placid and self-contained.犬儒主义提倡回归自然，像狗一样生活，可以像狗一样那么平静，那么自给自足。亚历山大有一天来到了他身边说：我作为帝国国王，我给你任何你想要的东西。第欧根尼斯回答：请你站远一点，你挡住了我的阳光。
+7.为什么这么简单地人类净土为什么从来没有在我们人类历史上出现过？柏拉图认为是人的贪婪：They soon tire of what they have,and pine for what they have not;and they seldom desire anything unless it belong to other.
+8.人贪婪，于是出现不同的生态位，每一波人有一个“领域”，当生态位重叠时，会发生相互竞争。即便没有战争，贸易与金融不断的发展，产生阶级的分化。商业中产阶级崛起时，其成员会通过炫耀财富寻求社会地位.财富的分配达到一定程度，导致了政治的变化：贵族制（aristocracy）最后让步于富豪寡头制（川普大叔plutocratic oligarchy）。
+9.Statesmanship：非常好的褒义词：the coordination of social forces and the adjustment of policy to growth. 好的政治家兼顾政策与社会力量。与政客概念相反：政客都是谋求利益的。
+
+#哲学的故事# day 12
+1.Aristocracy ruins itself by limiting too narrowly th circle within which power is confined;
+oligarchy ruins itself by the incautious scramble for immediate wealth.
+In either end is revolution.
+贵族制如果将它权力限制得太死，贵族制就会灭亡。富豪寡头制如果太急于圈钱也会灭亡。因为这会导致革命。
+2.But even democracy ruins itself by excess——of democracy.
+民主，如果它过于民主，民主就会灭亡。
+3.个人一旦进入群体中，个性便湮没了，群体的思想占据统治地位；而群体的行为表现为无异议、情绪化和低智商。——勒庞《乌合之众》
+4.Plato complains that whereas in simpler matters—like shoe-making—we think only a specially-trained person will serve our purpose，in politics we presume that every one who knows how to gets votes knows how to administer a city or a state.
+柏拉图抱怨说：尽管在比如造鞋子之类的小事情上，我们会认为只有特殊训练的人的人才会买组与我们的需要。但是在政治这个大问题上，我们却假定所有的人都知道正确的选举。
+5.To devise a method of barring incompetence and knavery（无耻之徒） from public office，and of selecting and preparing the best to rule for the common good—that is the problem.
+所以，柏拉图试图设计一个绝佳的方法将政治上的傻X排除与政治之外。这才是柏拉图要解决的一个关键问题。
+6.要解决政治，先解决人的问题
+”Like man，like state“什么样的人，什么样的国家。
+人的内心问题通过行为来表现 ，行为分类 ：
+Desire（欲望）——loins，it is a bursting reservoir of energy，fundamentally.
+Emotion（意志）——heart，in the flow and force of the blood；it is the organic resonance of experience and desire. （念念不忘，必有的"回响"）
+Knowledge（理性）——head，it is the eye of desire，and can become the pilot of the soul. （灵魂的引航员）
+Qualities degrees divers .人与人都有上述三种行为，但是程度不同。
+7.Desire 欲望型人格【商人】（These are the men who dominate and manipulate industry.）
+Restless and acquisitive souls;
+Absorbed in material quests and quarrels;
+Burn with lust of luxuries and show;欲火焚身
+一步步接近的目标却欲求不满
+8..Emotion 情感型人格【战士 】These are the men who make the armies and navies of the world. 
+Temples of feeling and courage;
+Pugnacious rather than acquisitive;
+Pride——in power rather than in possession;
+Joy——on the battle-field rather than in the mart.
+好战，在战场上有无限荣光。
+9..Knowledge 理性型人格【自由而无用的灵魂 】（These are man of wisdom，who stand aside unused by the world）
+Whose delight is in meditation and understanding;
+Yearn not for goods, nor for victory, but for knowledge;
+Whose will is a light rather than a fire;
+Whose haven is not power but truth.
+他们的内心是冬日的阳光而不是炎炎烈日、他们的避难所不是权利的满足而是真理之光的照耀。
+
+#哲学的故事# day 13
+1.Who shall rule the state?
+-哲学王
+-为什么呢？
+Desire，though warmed with emotion, is guided by knowledge；
+So in perfect state ，
+the industrial force would produce but they would not rule；
+the military force would produce but they would not rule；
+The forces of knowledge and science and philosophy would be nourished and protected, and they would rule.
+欲望，尽管是被意志与情感左右，但是关键还是智慧的领导。（人的个体作用）
+所以，有智慧的哲学家核科学家，他们才可以管理国家，正如智慧管理自己的欲望一样。（社会层面）
+2.Unguided by knowledge, the people are a multitude without order, like desires in disaray;
+the people need the guidance of philosophers as desires need the enlightenment of knowledge.
+国家没有智慧的引导，人民会变的混乱，就像欲望变得错乱。
+国家的人民需要哲学家们就像欲望需要智慧的启迪一样。
+3.Who controls the past, controls the future;
+Who controls the present,  controls the past.
+控制了过去等于控制了未来，控制了现在等与控制了过去。
+含义：当权者对过去历史的研究是有目的性的:控制了现在，就可以对历史进行有目的的解读，利于自己的控制，所以可以掌控将来。
+
+4.柏拉图从”什么是正义？“问题入手，对个人的正义难以处理，将其上升到国家层面，再从宏观反应到人的行为，分析人的作用，进行三种心理行为分析，类比反推到国家的管理人，应当是哲学家。柏拉图把他们称为”philosopher-king”——“哲学王“。
+
+#哲学的故事# day 14
+【如何训练成真正的哲学王？】
+1.从孩子生下来就抱走，国家抚养，
+不让其沾染父辈的气息。
+2.前十年，野蛮其体魄。
+Utopia must begin in the body of man
+因为病人多了，国家会花钱，势必损失很大。
+3.以后，音乐调和其内心。
+Music is valuable not only because it brings refinement of feeling and character, but also because it preserves and restores health.
+音乐有价值是因为它不仅净化心灵塑造品格，还让我们保持健康。
+4.因材施教。
+Therefore, do not use compulsion,but let early education be rather a sort of amusement; this will better enable you to find out the natual bent of the child
+不要强迫孩子学东西，不要压榨他的精力，要给他一定的‘弯度’。
+5.20岁接受‘中考’：，这是一次无情的淘汰，淘汰者将会成为牧师，商人，工人，农民。 
+That test will be no mere academic examination;
+It will be practical as well as theoretical:
+Every kind of ability will have a chance to show itself;
+And every sort of stupidity will be hunted out into the light .
+德智体美，所有项目都包括。
+所有的能力将会被检验，所有的无能都会大白于天下。 
+The selection will be more democratic than democracy.
+这次选择将会比民主更加民主。
+#哲学的故事# day 15
+【理念论】
+1.理念就在那里，是先于我们的感知存在的，我们所要做的就是要不断接近完美的理念，变得不断完美。
+2.There is ,as gentle Spinoza would say,a world of things perceived by sence,and a world of laws inferred by thought;we do not see the laws of inverse squares but it is there,and everywhere;it was before anything began,and will survive when all the world of things is a finished tale.
+就像那个温柔的斯彼诺莎说的那样，我们感知物质世界和思考理念世界；我们看不到复数的理念，但它在那里，到处都是；在任何事情还没有发生的时候，法则就存在了。当整个物质世界变成一个被讲完的童话之后，这个法则依然存在。
+3.人为什么要有形而上学？追求永恒
+4.God and the universal laws of structure and operation are one and the same reality.
+一心不二，世间万物皆为平等之所用。上帝，宇宙，现实的结构与运行方式是统一的。
+
+#哲学的故事#   day 16
+【如何训练成真正的哲学王？】
+1.在经过10年的教育后，30岁接受更严酷的筛选，淘汰者们将会成为军队长官，士兵部队。
+Far severer than the first. 
+2.经过两次筛选的人教他们以哲学，形而上学和政治学。
+Taught philosophy——metaphysics and politics .
+Metaphysics（Ideal）——to think clearly .
+形而上学能让你有清晰的思考，学起来比较难，进一步淘汰无能者。
+5年后，35岁的幸运儿们，理论教育完成了！
+ 
+3.但是还不够，还需要经过15年社会的摸爬滚打，50岁。最终走上人生巅峰，成为哲学王。
+ They shall hurt their fingers and scratch their philosophic shins on the crude realities of the world.
+4.Those that survive, scarred and fifty,sobered and self-reliant,shorn of scholastic vanity by the merciless friction of life, and armed now with all the wisdom that tradition and experience,culture and conflict,can cooperate to give——these men at last shall automatically become the rulers of the state.
+那些活下来的人，此时都五十岁了，身上满是伤痕，包容且自给自足，生活无情的摩擦消磨了他们学者的空虚感，他们有能力可以调和所有传统经验文化和冲突。这些人最后会自动变成管理国家的人。
+
+#哲学的故事#   day 17
+1.Democracy means perfect equality of opportunity,especially in education.
+民主意味着机会平等，尤其是教育平等。
+2.柏拉图的贵族制不是世袭的，所以叫此贵族制为民主贵族制。
+3.民主制：electing the lesser of two evil.
+大多数选举是从两个猥琐男当中选择一个相对不太猥琐的。 
+4. They shall be legislature and executive and court in one;even the laws shall not bind them to a dogma in the face of altered circumstance.
+真正国家的管理者，也就是50岁的那一拨完美的人，应该集立法行政军队，三权合一。他们自己就是法律。
+5.Plato means an active culture：they will be man of thought rather than merely men of action.
+柏拉图的哲学是有行动力的，他的哲学不仅仅是形而上学，而是要“入世“，即王阳明提到的哲学家的第二次启航，要有知行合一的行动力。
+6.给这些哲学王以共产主义：
+首先，这些哲学王没有多余财产，他们的薪水是刚好可以满足他们花销的。
+再告诉这些哲学王他们的本质是金子，不需要去寻求世间的金子。
+这些哲学王会被世间的金银所玷污，因此他们不能用金子。
+7.will be at hand.  触手可及。
+8.【党派的本质】：seeking good of their class
+党派的本质就是为自己党寻求利益，所以柏拉图认为哲学王不能结党营私。
+Friends should have all things in common，their sole reward will be honor and the sence of service to the group.
+【荣誉感】：朋友就是什么东西都应该分享，他们唯一的荣誉就是为整个哲学王团体服务。
+9.value A above B ——珍视A胜过B
+They will value the high repute of the statesman above the crass emolument of the office-seeking politicians.
+哲学王门会珍视自己作为国士的荣誉而不是政客那些卑微的薪水。
+#哲学的故事#   day 18
+1【不要党派，要共产：】
+Their communism is to be of women as well as of goods.
+共产如共妻
+2.【共产共妻，共爹共娘】
+Every boy will be a brother to every other boy,every girl a sister,every man a father, and every woman a mother.
+省略结构，用的很好。每一个男孩都是其他男孩的兄弟，每一个女孩都是其他女孩的姐妹，每一个男人都是其他孩子的父亲，每一个女人都是其他孩子的母亲。
+3.【共产共妻】
+Community of wives does not mean indiscriminate mating;There is to be strict eugenic supervision of all reproductive relations.
+ 
+共妻不是意味着不加区分的交配，而是要有严格的优生学检查。
+4."education should begin before birth."
+在出生前教育就应该开始。
+5.【优生学】
+Man may reproduce only when they are above thirty and under forty five 
+Woman only when they are above twenty and under forty
+Men unmarried by thirty-five are to be taxed into felicity.
+男人在30-45才能生孩子，女人在20-40才能。 如果男人在35岁还没结婚，要罚钱。
+Before and after the ages,mating is to be free,on condition that  the foetus be aborted
+不在这个时间段也可以交配，但是如果怀孕，就得堕胎。
+Offspring born of unlicensed mating, or deformed, are exposed and left to die.
+对于不符合上述条件，没有堕胎情况下，生下来的孩子，国家会把他们扔到野外，让它们自生自灭。
+6.‘arrangement accordingly’相应的做一些“安排”，意思是干掉，杀掉。与黑手党的黑话一样。
+7.【优生学】
+The best of either sex should be united with the best as often as possible, and the inferior with the inferior
+最好的人和最好的人配，此等和此等的配。
+8.【优生学】
+Plato：Our braver and better youth，besides their other honors and rewards，are to be permitted a greater variety of mates；for such fathers ought to have as many sons as possible.
+我们勇敢的优秀的年轻人啊，除了要给他们荣誉和奖赏，还要给他们有更多交配的机会。因为这样的父亲就应该有尽可能多的孩子
+
+#哲学的故事#   day 19
+1.Anyone acquiring more than four times the average possession of the citizens must relinquish.
+任何人钱多与平均四倍的话，要把钱交出来。
+2.noble soul 高贵的灵魂
+3.perfect society：
+each class and each unit would be doing the work to which its nature and adapted it; in which no class or individual would interfere with others,but all would cooperate in difference to produce an efficient and harmonious whole.
+完美的社会应该是：每一个阶级与每一个集团的天赋与能力相适应；
+没有一个阶层或个体干扰，他们会合作，产生一个有效率的，和谐的整体。
+4.justice beauty truth，and perhaps none of them can be defined.
+世界上三种有意义的东西,而且这些东西很难被定义。
+5.“Justice”，he says，“is the havingand doingwhat is one's own”
+柏拉图认为正义就是每个人各安其份，各司其责。
+6.failure advances like the inevitable night.
+失败就像无法避免的黑夜
+7.Justice is an order and beauty.It is  to the soul as health is to the body.
+正义代表了秩序和美。正义之于灵魂如同健康至于身体。
+
+#哲学的故事#   day 20
+ 【The Ethical Solution.】
+1.Justice isnot mere strength, harmonious strength. 
+柏拉图回答时提出了harmonious strength 的概念，强人不应该是狭隘的力量强大，而是和谐的内心强大。
+2Nature will have it so,and her judgment is always final. .
+理念经过自然法则才能到达理想状态。
+3.Morality,said Jesus,is kindness to the weak;
+上帝说 道德是对弱者的善意，
+Morality,said Nietzsche,is the bravery of the strong;
+尼采说 道德是强者的勇气，
+Morality,said Plato,is the effective harmony of the whole.
+柏拉图说 道德是一个整体的和谐。
+或许把三者结合起来才能得到最完美的理论。
+
+#哲学的故事#   day 21
+【对理想国的批评】
+1.圣经是手抄的，记录在羊皮纸上。
+2.进天堂：必须是基督教的，作恶少，或者作恶多买救赎卷。
+3..教皇最大的权利——革除教籍（excommunication），于是：
+All bent the knee to Rome
+都给教皇跪了。教皇！收下我起膝盖！我不要离开基督教！
+4.俄共的统治也是某种程度上的理想国：他们高举马列主义大旗，并且也利用开除党籍的惩罚进行统治。
+5.欧洲大陆与英美哲学也不同的原因可能是亨利八世被革除了教籍以后，英国开始自己的国教，不鸟大陆开始有隔阂。
+6.frugal 节俭。（谐音记忆：腐乳够）
+7.基督教，俄共都一定程度上实现了柏拉图所说的哲学王，各司其职等等，但是为什么都没有达到柏拉图心中的愿景，都进行不下去了呢？请听下回分解。
+
+#哲学的故事#   day 22
+1.【Egyptian theocracy:埃及神学统治】
+为了保证血统的纯正，哥哥妹妹结婚，儿子母亲结婚，所以最后越生越弱，古埃及人通过这种方式把自己玩死了。
+2.【亚里士多德反思柏拉图的共产主义:为什么共产不现实？不具备普世性】
+It is very pretty to plan a society in which all men will be brothers;but to extend such a term to all our male contemporaries is to water out of it all warmth and significance.
+So with common property:it would mean a dilution of responsibility;
+when everything belongs to everybody nobody will take care of anything.
+天下皆兄弟的想法固然美妙，但把当代的人都变成兄弟的话，兄弟的温情与重要性就被稀释掉了。
+所以谈到共同的财产，意味着责任的稀释。比如在家里一般人都不会随地吐痰，大小便。但在大街上有很多这样干。
+最后一句很经典：当所有东西属于所有人，没有人会关心任何事情。(everything everybody nobody anything）
+3.永远不要把自己的价值观强加在别人身上。
+4.柏拉图的问题是一小撮人，哲学王能做到。但是放之四海皆不准。
+5.如果你是强人，看到柏拉图的唯心主义会足够亲切。因为从某种程度上来说，你就是强者，就是哲学王。
+6.strike the same chord 如出一辙
+7.柏拉图没有考虑到的是：母亲不会让孩子被轻易带走，况且还是自己不熟悉的陌生人。
+8.最大的问题是。柏拉图摧毁了家庭观念，而家庭观念才是培养那些哲学王们最坚强的基础。因为家庭观的式微导致道德的培养的缺失，以及爱与被爱经验的缺失，进一步导致了人们合作与交流地贫瘠与，所以不太靠谱。
+9.【母亲对子女之爱】
+The average mother accepts the newborn babe rather with resignation than with joy;
+love for it is a development,not a sudden miracle. and grows as the child grows,as it takes from under the painstaking care of the mother; 
+not until it has become the embodiment of maternal artistry does it irrevocably catch the heart.
+往往母亲对于孩子的感情不是生来就有的，不是瞬间创造的爱奇迹，
+而是一种温柔的，细水长流的，随着孩子年龄增长，愈来愈浓烈的母爱。
+母亲拥抱了母性的艺术，她的心会被孩子紧紧地抓住，难以挽回，此时的母亲正真成为了一个伟大的母亲。
+#哲学的故事#   day 23
+【对柏拉图最致命的批评】
+1.Political power is a reflex of economic power.
+经济基础决定上层建筑。哲学王没钱的话玩不转，会被土豪玩弄，操纵。比如现在美国政治问题。
+2.Lacks of sense of flux and change.
+缺乏流动的观点
+【对柏拉图的表扬】
+1.What this world needs is to be ruled by its wisest men.
+作者认为本质上柏拉图的观点是对的，这个世界就是需要最聪明的人管理国家。
+2.Man's significance is that he can image a better
+Many a dream has grown limbs and walked,or grown wings and flown.
+人存在的意义是人会自己建立一个更美好的世界，并为之付诸努力。
+许多梦会自己长出双脚，大步向前，会长出翅膀，最终展翅飞翔。
+
+3.The good man will apply even in the imperfect 
+不能因为尘世的庸俗，放弃自己高尚的追求。
+【柏拉图人生的最后】
+1.His students loved him as he loved them;he was their friend as well as their philosopher and guide.
+柏拉图与他的学生其乐融融，是良师更是益友。
+2.He had passed from a little sleep to an endless one.
+柏拉图安静的长眠了。
+3.All Athens followed him to the grave.
+双关：
+1.雅典人民随着柏拉图的棺材一起去了墓园
+2.预示着柏拉图死以后，雅典城邦的毁灭
 ## Aristotle
+
+He is the sun at the scientific field, an although he made some mistakes, can not overshadow
+
 他是那科学界中最耀眼的的太阳，尽管偶尔黑点，但任然无法掩盖他那灼烧胸膛的知识热火。他是西方哲学里最巍峨的大山，顶点是所有人无法企及的高度。凭一口气，点一盏灯，念念不忘，必有回响。亚里士多德作为一个标准的生物专业本科毕业的理工男，虽贵为帝王之师，但一生都十分平静，也不会有华丽的辞藻写文章，寻求中庸之道，想做一个自由而无用的灵魂，搞点哲学科学凭一己之力，奠定了整个哲学的框架。他用自己的行为诠释了那句“We are what we repeatedly do”亚里士多德选择自己做一个优秀的人。并且他也希望人民们也能像他一样，把优秀当成一种习惯，不断进步从而变成一个一个理性而有美德的公民。但是他想错了，外界混乱的世界与暴民的兴风作浪最终让他无法平静，郁郁中饮下毒酒自尽。
 
 ## Bacon
 
-培根之前有一千多年的历史：
-
+Alexander want to output the cultrue, but failed. After that, two schools are creasted, one is negative and one is positive.
 亚历山大本来想文化输出，但是被东方的文化征服了。以后分出两大学派。Stoic消极，Epicurus积极。
 
-基督教统治的中世纪：罗马帝国时期，四帝共治。君士坦丁大帝：确立三位一体：圣父圣子圣灵holy father son spirit.将基督教变成国教。将多民族连为一个整体。
-
-- freedom 之源
+- The Origin of Freedom
 西方现在大谈特谈freedom，其实是奥古斯丁埋下了种子。圣·奥古斯丁认为自由意志是最重要的，给人作恶以解释，他还认为善良就是正义。圣经：十一税，如果挣了10元，拿出来一元。所以基督教很有钱，最后凌驾于世俗国家权力之上。
-- 十字军东征 
+- 十字军东征 Crusades
 现在人类认知文明的第一次爆发，得益于十字军东征以后欧洲与外部交流的频繁：各种宗教的混合之下，人们也开始怀疑基督教；造纸术的发展，使得以前贵巴巴的羊皮书非常的便宜，普通人开始识字，人们开始有自己的思考，也可以传看圣经，避免了以前传教士私自解读圣经的缺陷；火药，指南针的发明让人们大胆走出世界，探索更为辽阔的土地；望远镜的发明，让人们仰望星空，描绘更无边的宇宙。
 - 复兴的意义
 我们当下的时代和当时文艺复兴时期相似，信息的广泛传播，看到今天互联网的如此发展，我们会理解我们在这个时代出生之幸运，而不是出生之彷徨。
@@ -49,15 +421,16 @@ Stoic argue that philosophic indifference was the only reasonable attitude to a 
 
 正如跑步的人传递着生命的火炬，人有悲欢离合，月有阴晴圆缺。
 
-三.基督教统治 的中世纪
-罗马帝国时期，四帝共治。君士坦丁大帝：确立三位一体：圣父圣子圣灵holy father son spirit.将基督教变成国教。将多民族连为一个整体。
-西方现在大谈特谈freedom，其实是奥古斯丁埋下了种子。圣·奥古斯丁认为自由意志是最重要的，给人作恶以解释，他还认为善良就是正义。圣经：十一税，如果挣了10元，拿出来一元。所以基督教很有钱，最后凌驾于世俗国家权力之上。
-1.【多民族整体】
-For a thousand years it united, with the magic of an unvarying creed most of the peoples of a continent.
+### 基督教统治的中世纪
+
+
+培根之前有一千多年的历史：罗马帝国时期，四帝共治。君士坦丁大帝：确立三位一体：圣父圣子圣灵holy father son spirit.将基督教变成国教。将多民族连为一个整体。西方现在大谈特谈freedom，其实是奥古斯丁埋下了种子。圣·奥古斯丁认为自由意志是最重要的，给人作恶以解释，他还认为善良就是正义。圣经：十一税，如果挣了10元，拿出来一元。所以基督教很有钱，最后凌驾于世俗国家权力之上。
+
+- Unifying People：For a thousand years it united, with the magic of an unvarying creed most of the peoples of a continent.
 在不变的教条之下，多民族联系成了一个整体。
-2.【哲学与宗教的分野】
-Dogma was cast like a shell over the adolescent mind of medieval Europe. It was within this shell that Scholatic philosophy moved narrowly from faith to reason and back again, in a baffling circuit of uncriticized assumpiton and pre-ordained conclusion.
-教条给年轻的欧洲盖上了一层厚厚的罩子。在不可被批判的假设和早就被确定好的结论的神学体系下，支持怀疑的的哲学屡屡碰壁，步履维艰。
+
+- Divergence of religious and philosophy: Dogma was cast like a shell over the adolescent mind of medieval Europe. It was within this shell that Scholatic philosophy moved narrowly from faith to reason and back again, in a baffling circuit of uncriticized assumpiton and pre-ordained conclusion.  教条给年轻的欧洲盖上了一层厚厚的罩子。在不可被批判的假设和早就被确定好的结论的神学体系下，支持怀疑的的哲学屡屡碰壁，步履维艰。
+
 四.欧洲的复兴
 现在人类认知文明的第一次爆发，得益于十字军东征以后欧洲与外部交流的频繁：
 各种宗教的混合之下，人们也开始怀疑基督教；造纸术的发展，使得以前贵巴巴的羊皮书非常的便宜，普通人开始识字，人们开始有自己的思考，也可以传看圣经，避免了以前传教士私自解读圣经的缺陷；火药，指南针的发明让人们大胆走出世界，探索更为辽阔的土地；望远镜的发明，让人们仰望星空，描绘更无边的宇宙。
@@ -77,10 +450,9 @@ It was an age of achievement, hope and vigor;of new beginning and enterprises in
 3.【培根】——开启欧洲中心时代
 It was Francis Bacon,"the most powerful mind of modern times"， who ”rang the bell that called the wits together,“and announced that Europe had come of age.
 这个声音就是：当代最有力量的大脑——培根敲响了智慧的钟声，宣布了欧洲时代的开始。
-4.推荐书：《新经济，新规则》，了解这个时代，看完会脑洞大开。
 
-#哲学的故事#  2016.02.20.  day 47
-音频60.61
+
+
 于诸病苦为作良医；
 于失道者示其正路；
 于暗夜中为作光明；
