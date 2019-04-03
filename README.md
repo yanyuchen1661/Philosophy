@@ -38,3 +38,4 @@
 - [ ] Nietzsche （1844 － 1900） 
 - [ ] Russell （1872－1970）
 - [ ] Wittgenstein （1889 － 1951）
+- [ ] Martin Heidegger ()
