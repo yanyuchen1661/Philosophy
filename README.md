@@ -54,17 +54,17 @@ Shall we be more technical？ Science is analytical description, philosophy is s
 - 科学予人以生死，救黎民于灾病，毁城池于旦夕。唯有智慧——那从现世水火中诞生的欲望和热切，才能告诉我们：何时予人生的希望，何时给人死的安详。科学的目的是探索过程、构建方法；哲学的目的是批判怀疑、寻找真理。而现实是：人类的方法与工具已远超过我们对这个世界的认识和对真理的思考。人生充满喧哗与骚动，却没有任何意义。
 
 > In these days our means and instruments have multiplied beyond our interpretation and synthesis of ideals and ends,our life is full of sound and fury,signifying nothing.
-- 别写 With the development of science and technology,要写上面的
+- 别写 With the development of science and technology, 要写上面的
 
 ### Five fields of Philosphy
 
 Specifically, philosophy means and includes five fields of Study and discourse: logic, esthetics, ethics, politics, and metaphysics. *Logic* is the study of ideal method in thought and research: observation and introspection, deduction and induction, hypothesis and experiment, analysis and synthesis-such are the forms of human activity which logic tries to understand and guide; it is a dull study for most of us, and yet the great events in the history of thought are the improvements men have made in their methods of thinking and research. *Esthetics* is the study of ideal form, or beauty ; it is the philosophy of art. *Ethics* is the study of ideal conduct; the highest knowledge, said Socrates, is the knowledge of good and evil, the knowledge of the wisdom of life. *Politics* is the study of ideal social organization (it is not, as one might suppose, the art and science of capturing and keeping office) ; monarchy, aristocracy, democracy, socialism, anarchism, feminism— these are the "dramatis personae" of political philosophy. And lastly,*metaphysics* (which gets into so much trouble because it is not, like the other forms of philosophy, an attempt to coordinate the real in the light of the ideal); is the study of the "ultimate reality"of all things: of the real and final nature of "matter" (ontology), of "mind" (philosophical psychology), and of the interrelation of "mind" and "matter" in the processes of perception and knowledge (epitemology).
 
--[] *Logic*
--[] *Esthetics*
--[] *Ethics*
--[] *Politics*
--[] *Metaphysics*
+- [] *Logic*
+- [] *Esthetics*
+- [] *Ethics*
+- [] *Politics*
+- [] *Metaphysics*
 
 ### Main Goal of this Book
 
