@@ -2,21 +2,33 @@
 
 ## Introduction 简介
 
+There is a pleasure in philosophy, and a lure even in the mirages of metaphysics, which every student feels until the coarse necessities of physical existence drag him from the heights of thought into the mart of economic strife and gain. Most of us have known some golden days in the June of life when philosophy was in fact what Plato calls it, "that dear delight"; when the love of a modestly elusive Truth seemed more glorious, incomparably, than the lust for the ways of the flesh and the dross of the world. And there is always some wistful remnant in us of that early wooing of wisdom. "Life has meaning," we feel with Browning— "to find its meaning is my meat and drink." So much of our lives is meaningless, a self- cancelling vacillation and futility; we strive with the chaos about us and within; but we would believe all the while that therie is something vital and significant in us; could but decipher our own souls. We want to understand: 'life means for us constantly to transform into light and flame all that we are or meet with"; we are like Mitya in 'The Brothers Karamazov''— "one of those who don't want millions, but an answer to their questions"; we want to seize the value and perspective of passing things, and so to pull ourselves up out of the maelstrom of daily circumanstance. We want to know that the little things are little, the big things big before it is too late; we want to see things now as they will seem forever —— "in the light of eternity." We want to learn to laugh in the face of the inevitable, to smile even at the looming of death. We want to be whole, to coordinate our energies by criticizing and harmonizing our desires; for coordinated energy: is the last word in ethics and politics, and perhaps in logic and meta-physics too. "To be a philosopher," said Thoreau, "is not merely to have subtle thoughts, nor even to found a school, but so to love wisdom as tp live, according to its dictates, a life of simplicity, independence, magnanimity, and trust." We may be sure that if we can but find wisdom, all things else will be added unto us. "Seek ye first the good things of the mind," Bacon admonishes us, "and the rest will either be sup- plied or its loss will not be felt." Truth will not make us rich, but it will make us free.哲学里自有一种乐趣，甚至连形而上学的幻影也是那么引人入胜，这种乐趣是每一个学者都可以领略到的。尽管欲望会把我们从思想的天堂拉回到追名逐利的世俗生活中来。但很多人都知道，人类历史上曾有过一个叫做“生命之夏”的黄金时代，那时的哲学正如柏拉图所说，是“一种高尚的欢愉”。人们对真理的热爱似乎超过了对肉欲和金钱的追求。古人对智慧的这种无以复加的崇尚至今仍残留在我们饥渴的灵魂中。我们一生的大部分时光都在无聊、犹豫中虚度。我们与自己内心和周围环境的纷乱做着散漫的斗争，我们始终有一种信念——只要我们能够剖析自己的灵魂，就会发现我们身上存在着支撑我们生活下去的精神追求。我们应该知道，“对我们来说，生活意味着不断把我们的人格或经历变成熊熊烈火”。我们就像《卡拉马佐夫兄弟》中那个不求荣华富贵，只想为自己的疑问寻找答案的米蒂亚一样。我们需要从整体上把握生活的意义，以使自己摆脱日常生活的漩涡。我们需要在有生之年认清生活的真相，以“永恒的观点”看待那些似乎永恒的事物，我们必须学会以微笑来面对命运。甚至泰然地面对死亡；我们必须成为完整的人，协调各自的欲望，互相配合，达成一个共同的准则。因为人与人之间的通力合作既是伦理学和政治学的最终目标，也可能是逻辑学和形而上学的最终目标。梭罗说过，要做一个哲学家，并不是有深刻的思想，或者去创立一个学派就行了，而是要热爱智慧，并受它的指引去过一种朴素、独立、豁达和充满信心的生活。真理也许不会使我们发财，却能使我们获得自由。
 
 ```
-There is a pleasure in philosophy, and a lure even in the mirages of metaphysics, which every student feels until the coarse necessities of physical existence drag him from the heights of thought into the mart of economic strife and gain. Most of us have known some golden days in the June of life when philosophy was in fact what Plato calls it, "that dear delight"; when the love of a modestly elusive Truth seemed more glorious, incomparably, than the lust for the ways of the flesh and the dross of the world. And there is always some wistful remnant in us of that early wooing of wisdom. 
+"Life has meaning," we feel with Browning— "to find its meaning is my meat and drink." So much of our lives is meaningless, a self-cancelling vacillation and futility; we strive with the chaos about us and within; but we would believe all the while that there is something vital and significant in us; could but decipher our own souls.
 ```
 
-```
-"Life has meaning," we feel with Browning— "to find its meaning is my meat and drink." So much of our lives is meaningless, a self- cancelling vacillation and futility; we strive with the chaos about us and within; but we would believe all the while that therie is something vital and significant in us; could but decipher our own souls. 
-```
 “生活有其意义”，正如勃朗宁所说，“对它的探求不是英雄梦想，而是一饭一蔬。”生命难寻所谓“意义”，我们优柔寡断，碌碌无为，内心和周遭环境作斗争；但是我们愿意相信，假使能够读懂自己的灵魂，我们身上那种不可或缺、意义重大的东西必将呈现。
 
-We want to understand: 'life means for us constantly to transform into light and flame all that we are or meet with"; we are like Mitya in 'The Brothers Karamazov''— "one of those who don't want millions, but an answer to their questions"; we want to seize the value and perspective of passing things, and so to pull ourselves up out of the maelstrom of daily circumanstance. We want to know that the little things are little, the big things big before it is too late; we want to see things now as they will seem forever —— "in the light of eternity." We want to learn to laugh in the face of the inevitable, to smile even at the looming of death. We want to be whole, to coordinate our energies by criticizing and harmonizing our desires; for coordinated energy: is the last word in ethics and politics, and perhaps in logic and meta-physics too. "To be a philosopher," said Thoreau, "is not merely to have subtle thoughts, nor even to found a school, but so to love wisdom as tp live, according to its dictates, a life of simplicity, independence, magnanimity, and trust." We may be sure that if we can but find wisdom, all things else will be added unto us. "Seek ye first the good things of the mind," Bacon admonishes us, "and the rest will either be sup- plied or its loss will not be felt." Truth will not make us rich, but it will make us free.
+- **Meat and drink**： 一饭一蔬。爱情与我，不是什么伟大梦想，是我的一饭一蔬。——《情人》
+- **Decipher souls**： 读懂自己的灵魂
 
+```
+"one of those who don't want millions, but an answer to their questions"
+```
 
-爱情与我，不是什么伟大梦想，是我的一饭一蔬。——《情人》
 我们不想要金山银山，我们想要的是一个答案。
+
+ we want to seize the value and perspective of passing things, and so to pull ourselves up out of the maelstrom of daily circumanstance. We want to know that the little things are little, the big things big before it is too late; we want to see things now as they will seem forever —— "in the light of eternity." We want to learn to laugh in the face of the inevitable, to smile even at the looming of death. We want to be whole, to coordinate our energies by criticizing and harmonizing our desires; for coordinated energy: is the last word in ethics and politics, and perhaps in logic and meta-physics too. 
+ 
+我们渴望把握眼前事物的价值和前景，一面陷入日常生活的漩涡。我们希望了解事情的轻重缓急，在我们还来得及的时候。
+>>>
+"To be a philosopher," said Thoreau, "is not merely to have subtle thoughts, nor even to found a school, but so to love wisdom as tp live, according to its dictates, a life of simplicity, independence, magnanimity, and trust." We may be sure that if we can but find wisdom, all things else will be added unto us. "Seek ye first the good things of the mind," Bacon admonishes us, "and the rest will either be sup- plied or its loss will not be felt." Truth will not make us rich, but it will make us free.
+>>>
+索罗告诉我们：“作为一个哲学家。不仅需要具备缜密的思维或建立某一学派的能力，还要热爱智慧，过一种简单，独立，宽容，信任的生活。” 我们愿意相信，若能找到真的智慧，那我们的生命将不再盲目。“首先去追求思想中那些美好的内容吧，”培根告诫，“其余的部分即使不是接踵而至，也会在失去时不觉可惜。”真理无法帮助我们富有，但却能使我们自由。
+
+
+
 - We want to seize the value and perspective of passing things.我们最大的敌人是时间，冯唐：用文字打败时间。人在面对时间是，都是过客。人的终极只不过是指向时间的尽头
 6.We want to know what earth is earth,and human human,before it is too late.重复式写法
 7.学哲学要调和欲望，不是克制欲望，也就是昨天笔记里所说的“天理即人欲”。coordinate desires.
