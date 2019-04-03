@@ -60,11 +60,11 @@ Shall we be more technical？ Science is analytical description, philosophy is s
 
 Specifically, philosophy means and includes five fields of Study and discourse: logic, esthetics, ethics, politics, and metaphysics. *Logic* is the study of ideal method in thought and research: observation and introspection, deduction and induction, hypothesis and experiment, analysis and synthesis-such are the forms of human activity which logic tries to understand and guide; it is a dull study for most of us, and yet the great events in the history of thought are the improvements men have made in their methods of thinking and research. *Esthetics* is the study of ideal form, or beauty ; it is the philosophy of art. *Ethics* is the study of ideal conduct; the highest knowledge, said Socrates, is the knowledge of good and evil, the knowledge of the wisdom of life. *Politics* is the study of ideal social organization (it is not, as one might suppose, the art and science of capturing and keeping office) ; monarchy, aristocracy, democracy, socialism, anarchism, feminism— these are the "dramatis personae" of political philosophy. And lastly,*metaphysics* (which gets into so much trouble because it is not, like the other forms of philosophy, an attempt to coordinate the real in the light of the ideal); is the study of the "ultimate reality"of all things: of the real and final nature of "matter" (ontology), of "mind" (philosophical psychology), and of the interrelation of "mind" and "matter" in the processes of perception and knowledge (epitemology).
 
-- *Logic*
-- *Esthetics*
-- *Ethics*
-- *Politics*
-- *Metaphysics*
+[] *Logic*
+[] *Esthetics*
+[] *Ethics*
+[] *Politics*
+[] *Metaphysics*
 
 ### Main Goal of this Book
 
@@ -77,7 +77,7 @@ These are the parts of philosophy; but so dismembered it loses its beauty and it
 So let us listen to these men, ready to forgive them their passing errors, and eager to learn the lessons which they are so eager to teach. "Do you then be reasonable," said old Soc- rates to Crito, "and do not mind whether the teachers of phi- losophy are good or bad, but think only of Philosophy herself. Try to examine her well and truly; and if she be evil, seek to turn away all men from her; but if she be what Ibelieve she is, then follow her and serve her, and be of good cheer."
 
 ### Chinese Version:
->>>
+```
 哲学里自有一种乐趣，甚至连形而上学的幻影也是那么引人入胜，这种乐趣是每一个学者都可以领略到的。尽管欲望会把我们从思想的天堂拉回到追名逐利的世俗生活中来。但很多人都知道，人类历史上曾有过一个叫做“生命之夏”的黄金时代，那时的哲学正如柏拉图所说，是“一种高尚的欢愉”。人们对真理的热爱似乎超过了对肉欲和金钱的追求。古人对智慧的这种无以复加的崇尚至今仍残留在我们饥渴的灵魂中。我们一生的大部分时光都在无聊、犹豫中虚度。我们与自己内心和周围环境的纷乱做着散漫的斗争，我们始终有一种信念——只要我们能够剖析自己的灵魂，就会发现我们身上存在着支撑我们生活下去的精神追求。我们应该知道，“对我们来说，生活意味着不断把我们的人格或经历变成熊熊烈火”。我们就像《卡拉马佐夫兄弟》中那个不求荣华富贵，只想为自己的疑问寻找答案的米蒂亚一样。我们需要从整体上把握生活的意义，以使自己摆脱日常生活的漩涡。我们需要在有生之年认清生活的真相，以“永恒的观点”看待那些似乎永恒的事物，我们必须学会以微笑来面对命运。甚至泰然地面对死亡；我们必须成为完整的人，协调各自的欲望，互相配合，达成一个共同的准则。因为人与人之间的通力合作既是伦理学和政治学的最终目标，也可能是逻辑学和形而上学的最终目标。梭罗说过，要做一个哲学家，并不是有深刻的思想，或者去创立一个学派就行了，而是要热爱智慧，并受它的指引去过一种朴素、独立、豁达和充满信心的生活。真理也许不会使我们发财，却能使我们获得自由。
 
 可能有的读者会毫不客气地打断我们说，哲学晦涩艰深得近乎愚昧，就像国际象棋一样不实用。西塞罗说过，“再也沒有比在哲学家的著作中看到的东西更为荒诞的了”。在我们的这次航行中，让我们避开形而上学的漩涡，避开神学争论那喧嚣的海洋，而只在光明的港湾停泊。科学似乎一直在前进，而哲学則似乎在节节败退。不过这只是因为哲学所要解决的问题都是科学方法还无法证明的，诸如善与恶、美与丑、生与死、秩序与自由等，而这是一项十分艰难的任务。某个研究领域一旦产生了可以用精确的公式来表示的知识，它就进入了科学的行列。每一门科学都是从哲学开始，以艺术结束的。它源于假设，终于丰硕的成果。哲学是对未知事物(如在形而上学中)或不能确切认识的事物(如在伦理学或政治哲学中)的假设性诠释，它是追求真理的先锋，科学是被它占领的土地，它后面是稳定的区域。知识和艺术在那里缔造了我们这个虽不完美却非常奇妙的世界。看起来，哲学似乎陷入了迷惘，那是因为她总把胜利的果实留给自己的女儿——科学，自己却永不满足地去探索未知的领域。
@@ -89,4 +89,4 @@ So let us listen to these men, ready to forgive them their passing errors, and e
 以上就是哲学的组成部分。但是，哲学一旦被肢解，就会完全失去美和乐趣。所以，我们不打算在枯燥的抽象概念和教条中，而是在天才们鲜活的生活事迹中领会先哲的思想。我们不仅要研究哲学，而且还要研究哲学家。我们要和这些思想家和殉道者一起度过一生，我们要沐浴着他们的精神之光，直到我们也能领略到利奥纳多所说的“最高尚的快乐和理解的乐趣”。如果我们的学习方法恰当，就会发现每一位哲学家都有自己的独特性。“你知道学习的诀窍吗?”爱默生问，“每个人都有值得我学习的地方，因此在他们面前我是个小学生。”拿这种态度来对待思想史上的巨人，肯定是不会损害我们的自尊心的!另外，我们还会为爱默生的另一句话感到欣慰：“当我们倾听天才的言论时，我们会回忆起自己在年轻对隐约有过的和天才一模一样的思想，只是当时我们没有口才或勇气把它们表达出来罢了。”的确，只有我们具备了聆听他们的耳朵和灵魂。只有我们心中也具备了在他们身上开花结果的根系，巨人才向我们言说。他们的经历我们也曾有过，然而却未能从那些经历中吸取到真理，因为我们没有敏锐地感觉到现实环境中响起的各种泛音，而天才却听见了这些泛音和来自上天的音乐。天才明自毕达格拉斯为什么说哲学是最高的音乐。
 
 因此，让我们倾听他们的声音、原谅他们偶尔的谬误，并满怀热情地接受他们的殷切教诲吧。“我们还要学会理解和宽容。”老苏格拉底说，“别去计较那些哲学教师是好是坏，一门心思去考虑哲学本身吧。认真地审视它，如果它本性邪恶，那就让所有的人都远离它；但是，如果它没有辜负我们的信任，那就追随它、维护它，并尽情地享受它带来的欢乐吧。”
->>>
+```
