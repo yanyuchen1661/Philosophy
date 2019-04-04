@@ -4,6 +4,8 @@ Socrates is the fater of Greek philosophy.
 
 苏格拉底是古希腊哲学家，西方哲学的奠基人之一。
 
+- One thing only I know, and that is that I know nothing.
+
 ### Backgroud: the starting point of philosophy
 
 > Probably the traders were the first sceptics; they had seen too much to believe too much; and the general disposition of merchants to classify all men as either fools or knaves inclined them to question every creed. Gradually too, they were developing science; mathematics grew with the increasing complexity of exchange, astronomy with the increasing audacity of navigation. The growth of wealth brought the leisure and security which are the prerequisite of research and speculation; men now asked the stars not only for guidance on the seas but as well for an answer to the riddles of the universe; thefirst Greek philosophers were astronomers. "Proud of their achievements," says Aristotle "men pushed farther afield after the Persian wars; they took all knowledge lot their province, and sought ever wider studies." Men grew bold enough to attempt nat- ural explanations of processes arid events before attributed to supernatural agencies arid powers ; magic and ritual slowly gave way to science and control; and philosophy began.
@@ -24,7 +26,6 @@ Socrates is the fater of Greek philosophy.
   - Nietzsche:  claimed that nature is beyond good and evil; that by nature all men are unequal; that morality is an invention of the weak to limit and deter the strong; that power is the supreme virtue and the supreme desire of man; and that of all forms of government the wisest and most natural is aristocracy.
     - 尼采：人从生下来就不平等。所谓的仁义道德是弱者限制强者的，弱者不能用道德绑架强者，所以掌权者一定要是贵族制。 
 
-- 对于'人'的关注，是哲学与科学的第一次分野。
 - 在长达三十年的伯罗奔尼撒战争(公元前430-公元前400年)中，斯巴达的陆军与雅典的海军进行了激战，最后大获全胜。雅典寡头政党提出废除民主政体，因为它在战争中显得很无能。他们宣布对在那场灾难性的战争中处于统治地位的民主党进行一次贵族革命。雅典寡头政党领导者是Critias（460 － 403 BC）克里提亚斯，是苏格拉底的学生，也是柏拉图的叔叔。
   - Peloponnesian war 伯罗奔尼撒战争史是研究国际关系的最经典的原材料。
   - 民主制inefficiency效率低。
@@ -46,11 +47,23 @@ Socrates is the fater of Greek philosophy.
 - **Xanthippe** 苏格拉底的老婆 旱妇，和苏格拉底话一样多，老骂他。
   - 说苏格拉底是：good for nothing idler 养了二正(东北话：类似于傻X，猥琐男),为家里带回来的是丑名昭著不是面包。
   - 但她却很爱他, 苏格拉底死后，依然很难过。
-- drink like a gentleman—without fear and without excess.
-  - 酒品好，不怕喝也不多喝：
-amateur 不是贬义 最好不要翻译为业余爱好者，业余有些贬义味道，翻译成爱好者好。就是热爱，不是职业。
-5.agnosticism ：不可知论one thing only I know，and that is that I know nothing.我唯一知道的是我不知道任何事。
-6.黑格尔：哲学是黄昏起飞的密涅瓦的猫头鹰。当开始有怀疑，哲学便起航了。
+
+Why did his pupils reverence him so? Perhaps because he was a man as well as a philosopher: he had at great risks aved the life of Alcibiades in battle; He could drink like a gentleman—without fear and without excess. But no doubt they liked best in him the modesty of his wisdom: he did not daimtohavewisdom,but only to seek it lovingly; he was wisdom's amateur, not its professional.
+
+为什么苏格拉底能够备受学生尊敬呢?也许是因为他不仅是个哲学家，还是个富有人情味的男子汉吧。在战场上，他曾冒着生命危险救过亚西比德的命；他饮酒时颇有绅士风度，既不怯场，也不滥饮。但毫无疑问，学生们最喜欢他的还是他谦虚的品格，尽管他是那么智慧。他从不自夸是个智者，只是说自己是智慧的爱好者，而不是它的拥有者。
+
+  - 酒品好，不怕喝也不多喝。
+  - **Amateur** 不是贬义，翻译成爱好者好，最好不要翻译为业余爱好者，业余有些贬义味道。就是热爱，不是职业。
+
+> Philosophy begins when one learns to doubt— particularly to doubt one's cherished beliefs, one's dogmas and one's axioms. Who knows how these cherished beliefs be- came certainties with us, and whether some secret wish did not furtively beget them, clothing desire in the dress of thought? There is no real philosophy until the mind turns round and examines itself. *Gnothi seauton*, said Socrates: Know thyself.
+
+哲学的起点——“我只知道一件事，那就是我什么都不知道”。当我们学会了怀疑，尤其是怀疑自己的信念和原则时，哲学就产生了。
+- 对于'人'的关注，是哲学与科学的第一次分野。
+  - Agnosticism ：不可知论
+  - **one thing only I know，and that is that I know nothing.** 我唯一知道的是我不知道任何事。
+  - 黑格尔：密涅瓦的猫头鹰要等黄昏到来时，才会起飞。哲学是黄昏时才起飞的猫头鹰。
+  - 当开始有怀疑，哲学便起航了。
+
 7.Mind turns round and examines yourself：Know thyself.掌握自己，认清自己。
 8.自然哲学家：Thales泰勒斯：米利都学派。希腊七贤之一，给金字塔测出来高度，测出日蚀，认为水是万物之源，信仰万物有灵，多神论者。Heraclutus赫拉克利特：认为火是万物之源，万物之流，名言是一个人不能两次踏入同一条河流，以动态眼光看问题，对立统一的看问题，是当时希腊许多哲学家不具备的。Parmenides 万物在变 本质不变。
 9.苏克拉底说 哟，不错呦 这老多哲学家，但是他们没有关注人的灵魂。That is good，but there is an infinitely worthier subject for philosophers than all these trees and stones，and even all those stars；there is the mind of man.what is man，and what can he become？
