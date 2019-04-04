@@ -2,16 +2,19 @@
 
 ### Backgroud: the starting point of philosophy
 
-> Probably the traders were the first sceptics; they had seen too much to believe too much; and the general disposition of merchants to classify all men as either fools or knaves inclined them to question every creed. Gradually too, they were developing science; mathematics grew with the increasing complexity of exchange, astronomy with the increasing audacity of navigation. The growth of wealth brought the leisure and security which are the prerequisite of research arid speciilatiori; men now asked the stars not only for guidance on the seas but as well forananswertotheriddlesoftheuniverse; thefirst Greek philosophers were astronomers. "Proud of their achievements," says Aristotle "men pushed farther afield after the Persian wars; they took all knowledge lot their province, and sought ever wider studies." Men grew bold enough to attempt nat- ural explanations of processes arid events before attributed to supernatural agencies arid powers ; magic and ritual slowly gave way to science and control; and philosophy began.
+> Probably the traders were the first sceptics; they had seen too much to believe too much; and the general disposition of merchants to classify all men as either fools or knaves inclined them to question every creed. Gradually too, they were developing science; mathematics grew with the increasing complexity of exchange, astronomy with the increasing audacity of navigation. The growth of wealth brought the leisure and security which are the prerequisite of research and speculation; men now asked the stars not only for guidance on the seas but as well for an answer to the riddles of the universe; thefirst Greek philosophers were astronomers. "Proud of their achievements," says Aristotle "men pushed farther afield after the Persian wars; they took all knowledge lot their province, and sought ever wider studies." Men grew bold enough to attempt nat- ural explanations of processes arid events before attributed to supernatural agencies arid powers ; magic and ritual slowly gave way to science and control; and philosophy began.
 
 那时的商人也许是第一批怀疑论者，他们见多识广，也就对一切都不肯轻易相信。而商人的习惯是把所有人都视为傻瓜和无赖，这使他们对各种思想一律持怀疑态度。因为有了他们，科学也逐渐得到了发展——日趋复杂的交换产生了数学，航海上的大胆探索使得天文学有了长足的进步。财富的增长带来了舒适的生活，而这正是学术研究的保障。现在人们对于日月星辰的要求不再仅仅是为海上航行指引方向，而且也要求它们为自己寻找宇宙之谜提供答案。人们探索奥秘的勇气越来越大，对各种事物总要尝试进行一番合乎自然规律的解释，然后才肯把各种事件的原因归诸于超自然力。当魔鬼和宗教仪式逐渐让位于科学和对自然的掌控，哲学也就随之诞生了。
 
 - 自然对数的出现：复利增长的最后稳定到一个值，是自然对数。
 
-- > At first, the philosophy begin with physics, like Democritus, who believe in reality there is nothing but atoms and space.
-哲学刚开始是物理：物质的最小形式是什么。德谟克利特的原子论：世界是由原子组成的。
+> At first this philosophy was physical; it looked out upon the material world and asked what was the final and irreducible constituent of things.
 
-- 对于'人'的关注 是哲学与科学的第一次分野。
+- 哲学刚开始是物理：物质的最小形式是什么。
+- > Deiriocritus
+  - 德谟克利特的原子论：世界是由原子组成的。
+
+- 对于'人'的关注，是哲学与科学的第一次分野。
 
 ### Ideas
 
