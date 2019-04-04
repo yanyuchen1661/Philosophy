@@ -24,8 +24,8 @@
 
 ### Western Philosophers
 
-- [ ] [Socrates] (/Socrates.md)（470 – 399 BC）
-- [ ] [Plato] (/Plato.md)（428/427 or 424/423 – 348/347 BC）
+- [ ] [Socrates](/Socrates.md)（470 – 399 BC）
+- [ ] [Plato](/Plato.md)（428/427 or 424/423 – 348/347 BC）
 - [ ] Aristotle （384 – 322 BC）
 - [ ] Descartes （1596 - 1650）
 - [ ] Francis Bacon（1561 – 1626）
