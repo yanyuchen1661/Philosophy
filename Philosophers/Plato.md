@@ -1,5 +1,8 @@
-“洞穴理论”是古典哲学最为重要的比喻之一，苏格拉底通过描绘洞穴以及洞穴里囚犯的状态，阐述的是人类的无知以及他们虽然无知但却自以为知的状态。除此之外，还解释了阻碍人类自由和获得真理的因素。更为重要的是，这个比喻也形象地说明了为什么即使面对真理，人类依然拒绝真理并固执地相信谬误的原因。
+### idea
 
+#### The cave
+
+“洞穴理论”是古典哲学最为重要的比喻之一，苏格拉底通过描绘洞穴以及洞穴里囚犯的状态，阐述的是人类的无知以及他们虽然无知但却自以为知的状态。除此之外，还解释了阻碍人类自由和获得真理的因素。更为重要的是，这个比喻也形象地说明了为什么即使面对真理，人类依然拒绝真理并固执地相信谬误的原因。
 1. 描绘囚徒环境
     1.1 描绘囚徒身处场景
     1.2 囚徒场景与现实联系
@@ -106,7 +109,7 @@ The returning prisoner, whose eyes have become accustomed to the sunlight, would
 
 难怪伏尔泰也会激进地说，“向无知宣战”：
 
-Come, brave Diderot, intrepid d’Alembert, ally yourselves; . . . overwhelm the fanatics and the knaves, destroy the insipid declamations, the miserable sophistries, the lying history, . . . the absurdities without number; do not let those who have sense be subjected to those who have none; and the generation which is being born will owe to us its reason and its liberty.
+Come, brave Diderot, intrepid d’Alembert, ally yourselves; overwhelm the fanatics and the knaves, destroy the insipid declamations, the miserable sophistries, the lying history, the absurdities without number; do not let those who have sense be subjected to those who have none; and the generation which is being born will owe to us its reason and its liberty.
 
 来吧，我的朋友们。装备你们的热忱与刀枪，去摧毁无聊的言论、卑鄙的诡辩、谎话连篇的历史、没有依据的荒谬吧！我们需要向无知宣战，不要让无能的人绑架有灵性的人！时代欠我们理性和自由！
 
@@ -122,8 +125,7 @@ Come, brave Diderot, intrepid d’Alembert, ally yourselves; . . . overwhelm the
 
 追求真理的道路，荆棘丛生，泥泞满地，莽夫亡命，懦者沉沦，智者孤独。
 
-
-本次笔记基于《哲学的故事》柏拉图部分内容。课程提供者为友邻优课。
+#### Utopia
 
 正义是社会的基石。苏格拉底死后，柏拉图一直在思索如何构建理想的社会体系？“理想”二字太空洞，于是柏拉图将关注点聚焦到正义，如何构建一个正义的社会体系？
 
