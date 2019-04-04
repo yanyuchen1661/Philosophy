@@ -1,4 +1,8 @@
-## Scorates
+## Socrates
+
+Socrates is the fater of Greek philosophy. 
+
+苏格拉底是古希腊哲学家，西方哲学的奠基人之一。
 
 ### Backgroud: the starting point of philosophy
 
@@ -21,12 +25,86 @@
     - 尼采：人从生下来就不平等。所谓的仁义道德是弱者限制强者的，弱者不能用道德绑架强者，所以掌权者一定要是贵族制。 
 
 - 对于'人'的关注，是哲学与科学的第一次分野。
-- 伯罗奔尼撒战败后，雅典有寡头30人统治。领导者是Critias（460 － 403 BC）克里提亚斯，是苏格拉底的学生，也是柏拉图的叔叔。
+- 在长达三十年的伯罗奔尼撒战争(公元前430-公元前400年)中，斯巴达的陆军与雅典的海军进行了激战，最后大获全胜。雅典寡头政党提出废除民主政体，因为它在战争中显得很无能。他们宣布对在那场灾难性的战争中处于统治地位的民主党进行一次贵族革命。雅典寡头政党领导者是Critias（460 － 403 BC）克里提亚斯，是苏格拉底的学生，也是柏拉图的叔叔。
 
 ### Biography of Socrates
 
 
 ### Ideas
+
+他本人没有留下任何文字著作，他的思想被他的学生保留记录下来，其中最著名的学生是柏拉图，在《柏拉图对话录》中记录了大量苏格拉底和他人的对话.
+
+#### Apology
+
+苏格拉底的人生终点是被雅典法庭以不虔诚和腐蚀思想、青年思想罪名被判处死刑。
+
+苏格拉底被判刑之前做了一次演讲为自己辩护，这个辩护被柏拉图记录下来，就是《申辩篇》。申辩篇的英文是“Apology”，不是道歉，是申辩之意，这是苏格拉底关于自我辩护的演讲。在这篇演讲中，苏格拉底首要目的是为自己辩护，也包含了苏格拉底著名的哲学理念。
+
+- The understanding of wisdom 智慧的理解
+
+首先，聚焦“智慧”二字。节选处之前的内容，是苏格拉底向其他人解释，为什么针对他会有那么多的诽谤、那么多人恨他，主要起因是一件事情。有一天，苏格拉底的朋友去神庙问神，谁是世上最有智慧的，负责传递神谕的女巫说：“苏格拉底是最有智慧的。”故事随后展开：
+
+When I heard these things, I pondered them like this: "What ever is the god saying, and what riddle is he posing? For I am conscious that I am not at all wise, either much or litter. Surely he is not saying something false, at least; for that is not sanctioned for him. "And for a long time I was at a loss about what ever he was saying, but then very reluctantly I turned to something like the following investigation of it. I went to one of those reputed to be wise, on the ground that there, I would refute the divination. 
+
+When I considered him and conversed with him, men of Athens, I was affected by something like this: it seemed to me that this man seemed to be wise, both to many other human beings and most of all to himself, but that he was not. And then I tried to show him that he supposed he was wise, but was not. So from this I became hateful both to him and to many of those present. 
+
+苏格拉底说道，“当我听到这件事情时，我问自己，神说这个话是什么意思呢？因为我知道自己并不聪明鸭；不仅不聪明，简直就是一点聪明也没有。”由于苏格拉底不清楚神的话语，他决定找出其中的原委。于是他来到公认聪明的政治家、诗人，工匠那里，去向他们求教，证明神的话语。和他们谈过之后，苏格拉底发现这些人确实不懂苏格拉底不理解的那些事情，但是他们以为自己知道很多，他们眼里只有傲慢，根本没有知识和美德。
+
+For my part, as I went away, I reasoned with regard to myself: "I am wiser than this human being. For probably neither of us knows anything noble and good, but he supposes he knows something when he does not know, while I, just as I do not know, do not even suppose that I do. I am likely to be a little bit wiser than he in this very thing: that whatever I do not know, I do not even suppose I know."
+
+因此苏格拉底最终得出如下解释：显然，神并不想对苏格拉底说什么话。他只是用这话断言：“最聪明的人是像苏格拉底那样承认自己实际并不聪明的人。”
+
+人类不可能完美地掌握有关世界的真理，因此，如果有人认为自己掌握了世界的全部真理，那这个人其实并没有智慧，因为他必然对自己有错误的定位。苏格拉底认为，一个有智慧的人是知道自己无知的人。
+
+那这样是不是就意味着我们根本没有必要学习，没有必要去探究世界的真理？反正我们总归是无知的，只要承认自己物质，是不是就有智慧了？其实不然。如果知道自己哪方面无知，一定说明你经过了探求真理的痛苦过程，因为探求真理的道路，泥泞满地，荆棘丛生。只有不断进行深刻的自我反思，才会能体会自己的无知，也才会保持冷静，看出他人的自大和虚妄。学的越多，才知道自己越来越无知。
+
+
+- The duty of the schoolar 知识分子的责任
+
+在这个部分中，苏格拉底首先说你们杀我，最终受害的是你们：
+
+So I, men of Athens, am now far from making a defense speech on my own behalf, as someone might suppose. I do it rather on your behalf, so that you do not do something wrong concerning the gift of the god to you by voting to condemn me.
+
+雅典的父老乡亲，兄弟姐妹呀。你们应该听我的话，不要定我有罪。理由：你们不能定我有罪是因为，假如你们失去了像我这样的人，对你们来说是非常大的损失，所以我现在为我自己辩护，实际是为你们在辩护。
+
+苏格拉底接着说：
+
+For if you kill me, you will not easily discover another of my sort, who-even if it is rather ridiculous to say- has simply been set upon the city by the god, as though upon a great and well-born horse who is rather sluggish because of his great size and needs to be awakened by some gadfly. Just so, in fact, the god seems to me to have set me upon the city as someone of this sort: I awaken and persuade and reproach each one of you, and I do not stop setting down everywhere upon you the whole day. 
+
+苏格拉底说，你们如果杀了我，就是杀了上帝派来的智者。大部分情况下，你们雅典这些人都是像马一样，精神上比较慵懒，你们就需要我这样的人，像牛虻一样出来叮你们一下，让你们保持清醒。
+
+苏格拉底将知识分子比作牛虻，把普通民众比作身形高大但昏昏沉睡的马匹。在大部分情况下，马匹慵懒，没有精神，需要牛虻来叮一下，让普通民众保持清醒。民众很多时候按照苏格拉底的说法，也是比较慵懒，比较昏昏欲睡的，这里不是指劳动上的萎靡，而是精神上的惰性，没有朝气，没有动力，或者对很多现实了解不够，就是我们现在说的“屌丝宅男”。所以，苏格拉底认为他自己作为知识分子，有必要站出来说一些比较深刻且直白的话，让人们认识到事情的真相。
+
+我们目前的社会，大家似乎听到更多“如何好好说话”、“如何培养所谓的情商”。诚然情商很重要，但是也要知道智者对民众说直接的话，即使难听，确有警醒的作用。如果整个社会大家都关心的是如何去迎合别人，如何不让别人生气，如何好好去说话，而不会去思考如何警醒别人，那这样社会反而会出现苏格拉底所说的“昏昏欲睡”的状况。
+
+Someone else of this sort will certainly not easily arise for you, men. Well, if you obey me, you will spare me. But perhaps you may be vexed, like the drowsy when they are awakened, and if you obey Anytus and slap me, you would easily kill me. Then you would spend the rest of your lives asleep, unless the god sends you someone else in his concern for you.
+
+“你们杀了我，除非上帝给你们派过来别人，否则，就没人唤醒你们了。”苏格拉底不在意别人是不是喜欢他，只在乎他的言论是不是把truth讲了出来。苏格拉底通过自己的逻辑辩论，让许多人知道自己无知。这种方式无可厚非，但这么做会遭到别人的仇恨，即使这么做会处于危险当中。难道苏格拉底不知道和别人辩论会遭人记恨吗？为什么他还要这么做呢？因为苏格拉底认为，让一个人知道自己无知是他作为知识分子的责任，不应该因为有这样的风险而拒绝做这样的事情。虽然他知道后果，也不是情商低，只不过作为知识分子，他觉得有必要去警醒大众，作为知识分子、哲学家的使命感。
+
+另外，如何艺术地说出真相？分情况来考虑。从社会大众角度考虑，坦白的真相往往有刺激性，反而那些花言巧语，可以麻痹大部分人的情绪的言论，才被大多数人喜欢。但是这样的花言巧语知识言语的蜜糖，社会的砒霜。所以，知识分子的讲话一方面需要尊重社会民众，同时需要直面真相，指出真相，对社会要有警醒作用。苏格拉底讲的就是这类言论。从日常的交流角度考虑，如果这类交流不涉及真理，不涉及是非，不涉及大是大非，反而确实不需要事事斤斤计较，更需要去照顾他人的情绪。比如，夫妻之间或者朋友之间，不需要什么讨论都需要以逻辑为基础，挣得面红耳赤，这样生活会比较无趣。人与人之间交往需要“情商”，但是所谓“情商”不是花言巧语去取悦他人，而是尊重他人的感受。
+
+
+- The view for death 对死亡的看法
+
+Now being dead is either of two things. For either it is like being nothing and the dead man has no perception of anything, or else, in accordance with the things that are said, it happens to be a sort of change and migration of the soul from the place here to another place. And if in fact there is no perception, but it is like a steep in which the sleeper has no dream at all, death would be a wondrous gain. On the other hand, if death is like a journey from here to another place, and if the things that are said are true, that in fact all the dead are there, then what greater good could there be than this, judges? For I am willing to die many times if these things are true, since especially for myself spending time there would be wondrous.
+
+死亡有两种可能性，第一种可能性，长眠，没有感知，是好的；第二种可能性，进入另外一个世界，也是非常好的，我都愿意死一万次去到那边的世界。用反问，还有比这更好的吗？其实是说这是“最好的归宿”。当时的社会场景下，第二种可能性是更被社会大众所认可的。
+
+死亡的两种可能都不错。他在最后再次让他的敌人感到非常郁闷，他没有生离死别的痛苦，没有对死亡的恐惧，而是留给他的敌人们一个其实他已经给出答案的问题，生与死到底哪个更好？显然，他的敌人的预设是，死亡是人世间最大的痛苦，所以他们才用死亡来惩罚苏格拉底。但是苏格拉底通过分析，得出的结论恰恰相反，死亡的两种可能性对他来说都不错，要么是长期休息，要么是去往另外一个世界，与逝去的圣贤对话，这对想要惩罚苏格拉底的敌人来说，无疑是一记闷棍。这是典型的苏格拉底的风格，能在逻辑上证明对方的错误，让对方无法反驳，无言以对。这当然很有智慧，但这就是为什么苏格拉底有这样结局的原因。他能让别人跟着他的逻辑一步一步往下走，最后不得不承认自己是错误的，或者不得不承认苏格拉底的逻辑是合理的。就是因为他的出发点基本上是大家习以为常的，觉得是没有问题的，只是按照他的思路不断往前推，每一步都会觉得有道理，最后得出结论会发现，跟人们原来的想法完全不一样。
+
+
+This much, however, I beg of them: when my sons grow up, punish them, men, and pain them in the very same way I pained you, if they seem to you to care for money or anything else before virtue. And if they are reputed to be something when they are nothing, reproach them just as I did you: tell them that they do not care for the things they should, and that they suppose they are something when they are worth nothing. And if you do these things, we will have been treated justly by you, both I myself and my sons.
+
+苏格拉底希望民众真正了解自己的不足，能够知道自己一无所知，能够不会去获取自己不应该得到的名声和金钱。看上去像是请求那些判他死刑突然改变思想，正确对待他的子女。其实他应该对那些人没有太高期待，因为正是这帮人不理解苏格拉底的思想和对待真理的态度，才要处决苏格拉底。所以苏格拉底也没有期待这些人之后突然开窍，而是用自己的话留下最后的遗憾。
+
+
+But now it is time to go away, I to die and you to live. Which of us goes to a better thing is unclear to everyone except to the god.
+
+这是苏格拉底留给世人最后的两句话：现在我也该上路了，我死去，你们继续活着。你我谁会过的更好谁都不知道，只有上帝知道了。
+
+不管苏格拉底所说的死亡最后是什么样的状态，是不是真的特别好，我们同样要明白的是，生在这个俗世，我们的生命同样值得珍惜。这是苏格拉底为什么一生忙碌去教诲他人的原因。苏格拉底之死留给我们的一个反思就是：
+
+我们对未知的世界保持敬畏，同时也需要对当下的生活保持敬畏，才能够活得精彩，活得有意义。
 
 ### Significance
 
