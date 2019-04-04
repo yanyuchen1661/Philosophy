@@ -8,13 +8,16 @@
 
 - 自然对数的出现：复利增长的最后稳定到一个值，是自然对数。
 
-> At first this philosophy was physical; it looked out upon the material world and asked what was the final and irreducible constituent of things.
-
-- 哲学刚开始是物理：物质的最小形式是什么。
-- > Deiriocritus
-  - 德谟克利特的原子论：世界是由原子组成的。
+- > At first this philosophy was physical; it looked out upon the material world and asked what was the final and irreducible constituent of things.
+  - 哲学刚开始是物理：物质的最小形式是什么。
+  - > Deiriocritus(460 - 360 BC): in reality there is nothirig but atoms and space.
+    - 德谟克利特的原子论：世界是由原子组成的。
 
 - 对于'人'的关注，是哲学与科学的第一次分野。
+
+- Politics
+  - Rousseau卢梭【论人类起源的不平等】：人之初，性本善，认为人生而平等，法律让强者恒强，弱者恒弱。
+  - Nietzsche尼采：人从生下来就不平等。所谓的仁义道德是弱者限制强者的，弱者不能用道德绑架强者，所以掌权者一定要是贵族制。
 
 ### Ideas
 
@@ -22,12 +25,6 @@
 
 ### Critical thinking
 
-Epicurus，提倡哲学的目的是达到宁静的状态，去享乐。反对动态的快乐，因为动态的快乐有峰值便有低谷。所以他所提倡的快乐不是花天酒地，而是削减欲望。
-
-6.
-
-7.Rousseau卢梭【论人类起源的不平等】：人之初，性本善，认为人生而平等，法律让强者恒强，弱者恒弱。
-8.Nietzsche尼采：人从生下来就不平等。所谓的仁义道德是弱者限制强者的，弱者不能用道德绑架强者，所以掌权者一定要是贵族制。
 
  #哲学的故事#   day4
 1.Socrates was as far from being handsome as even a philosopher can be.哲学家特别丑，但是苏格拉底丑的连哲学家都不如。
