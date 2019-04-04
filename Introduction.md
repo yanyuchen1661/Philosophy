@@ -1,4 +1,4 @@
-## Introfuction o Philosophy
+## Introfuction of Philosophy
 
 ### Pleasure and freedom in Philosophy
 
