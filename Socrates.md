@@ -70,9 +70,6 @@ Socrates is the fater of Greek philosophy.
   - 当开始有怀疑，哲学便起航了。
   - **Know thyself**  掌握自己，认清自己。
   
-
-
-
 ### Ideas
 
 他本人没有留下任何文字著作，他的思想被他的学生保留记录下来，其中最著名的学生是柏拉图，在《柏拉图对话录》中记录了大量苏格拉底和他人的对话.
@@ -150,27 +147,24 @@ What could have been more ridiculous than this mob-led, passion-ridden democracy
 
 ##### The duty of the schoolar 知识分子的责任
 
-在这个部分中，苏格拉底首先说你们杀我，最终受害的是你们：
+> So I, men of Athens, am now far from making a defense speech on my own behalf, as someone might suppose. I do it rather on your behalf, so that you do not do something wrong concerning the gift of the god to you by voting to condemn me. For if you kill me, you will not easily discover another of my sort, who-even if it is rather ridiculous to say- has simply been set upon the city by the god, as though upon a great and well-born horse who is rather sluggish because of his great size and needs to be awakened by some gadfly. Just so, in fact, the god seems to me to have set me upon the city as someone of this sort: I awaken and persuade and reproach each one of you, and I do not stop setting down everywhere upon you the whole day. 
 
-So I, men of Athens, am now far from making a defense speech on my own behalf, as someone might suppose. I do it rather on your behalf, so that you do not do something wrong concerning the gift of the god to you by voting to condemn me.
 
-雅典的父老乡亲，兄弟姐妹呀。你们应该听我的话，不要定我有罪。理由：你们不能定我有罪是因为，假如你们失去了像我这样的人，对你们来说是非常大的损失，所以我现在为我自己辩护，实际是为你们在辩护。
+- 苏格拉底说你们杀我，最终受害的是你们：雅典的父老乡亲，兄弟姐妹呀。你们应该听我的话，不要定我有罪。理由：你们不能定我有罪是因为，假如你们失去了像我这样的人，对你们来说是非常大的损失，所以我现在为我自己辩护，实际是为你们在辩护。
+- 你们如果杀了我，就是杀了上帝派来的智者。大部分情况下，你们雅典这些人都是像马一样，精神上比较慵懒，你们就需要我这样的人，像牛虻一样出来叮你们一下，让你们保持清醒。
+- 苏格拉底将知识分子比作牛虻，把普通民众比作身形高大但昏昏沉睡的马匹。在大部分情况下，马匹慵懒，没有精神，需要牛虻来叮一下，让普通民众保持清醒。民众很多时候按照苏格拉底的说法，也是比较慵懒，比较昏昏欲睡的，这里不是指劳动上的萎靡，而是精神上的惰性，没有朝气，没有动力，或者对很多现实了解不够，就是我们现在说的“屌丝宅男”。所以，苏格拉底认为他自己作为知识分子，有必要站出来说一些比较深刻且直白的话，让人们认识到事情的真相。
+- 我们目前的社会，大家似乎听到更多“如何好好说话”、“如何培养所谓的情商”。诚然情商很重要，但是也要知道智者对民众说直接的话，即使难听，确有警醒的作用。如果整个社会大家都关心的是如何去迎合别人，如何不让别人生气，如何好好去说话，而不会去思考如何警醒别人，那这样社会反而会出现苏格拉底所说的“昏昏欲睡”的状况。
 
-苏格拉底接着说：
+> Someone else of this sort will certainly not easily arise for you, men. Well, if you obey me, you will spare me. But perhaps you may be vexed, like the drowsy when they are awakened, and if you obey Anytus and slap me, you would easily kill me. Then you would spend the rest of your lives asleep, unless the god sends you someone else in his concern for you.
 
-For if you kill me, you will not easily discover another of my sort, who-even if it is rather ridiculous to say- has simply been set upon the city by the god, as though upon a great and well-born horse who is rather sluggish because of his great size and needs to be awakened by some gadfly. Just so, in fact, the god seems to me to have set me upon the city as someone of this sort: I awaken and persuade and reproach each one of you, and I do not stop setting down everywhere upon you the whole day. 
-
-苏格拉底说，你们如果杀了我，就是杀了上帝派来的智者。大部分情况下，你们雅典这些人都是像马一样，精神上比较慵懒，你们就需要我这样的人，像牛虻一样出来叮你们一下，让你们保持清醒。
-
-苏格拉底将知识分子比作牛虻，把普通民众比作身形高大但昏昏沉睡的马匹。在大部分情况下，马匹慵懒，没有精神，需要牛虻来叮一下，让普通民众保持清醒。民众很多时候按照苏格拉底的说法，也是比较慵懒，比较昏昏欲睡的，这里不是指劳动上的萎靡，而是精神上的惰性，没有朝气，没有动力，或者对很多现实了解不够，就是我们现在说的“屌丝宅男”。所以，苏格拉底认为他自己作为知识分子，有必要站出来说一些比较深刻且直白的话，让人们认识到事情的真相。
-
-我们目前的社会，大家似乎听到更多“如何好好说话”、“如何培养所谓的情商”。诚然情商很重要，但是也要知道智者对民众说直接的话，即使难听，确有警醒的作用。如果整个社会大家都关心的是如何去迎合别人，如何不让别人生气，如何好好去说话，而不会去思考如何警醒别人，那这样社会反而会出现苏格拉底所说的“昏昏欲睡”的状况。
-
-Someone else of this sort will certainly not easily arise for you, men. Well, if you obey me, you will spare me. But perhaps you may be vexed, like the drowsy when they are awakened, and if you obey Anytus and slap me, you would easily kill me. Then you would spend the rest of your lives asleep, unless the god sends you someone else in his concern for you.
-
-“你们杀了我，除非上帝给你们派过来别人，否则，就没人唤醒你们了。”苏格拉底不在意别人是不是喜欢他，只在乎他的言论是不是把truth讲了出来。苏格拉底通过自己的逻辑辩论，让许多人知道自己无知。这种方式无可厚非，但这么做会遭到别人的仇恨，即使这么做会处于危险当中。难道苏格拉底不知道和别人辩论会遭人记恨吗？为什么他还要这么做呢？因为苏格拉底认为，让一个人知道自己无知是他作为知识分子的责任，不应该因为有这样的风险而拒绝做这样的事情。虽然他知道后果，也不是情商低，只不过作为知识分子，他觉得有必要去警醒大众，作为知识分子、哲学家的使命感。
-
-另外，如何艺术地说出真相？分情况来考虑。从社会大众角度考虑，坦白的真相往往有刺激性，反而那些花言巧语，可以麻痹大部分人的情绪的言论，才被大多数人喜欢。但是这样的花言巧语知识言语的蜜糖，社会的砒霜。所以，知识分子的讲话一方面需要尊重社会民众，同时需要直面真相，指出真相，对社会要有警醒作用。苏格拉底讲的就是这类言论。从日常的交流角度考虑，如果这类交流不涉及真理，不涉及是非，不涉及大是大非，反而确实不需要事事斤斤计较，更需要去照顾他人的情绪。比如，夫妻之间或者朋友之间，不需要什么讨论都需要以逻辑为基础，挣得面红耳赤，这样生活会比较无趣。人与人之间交往需要“情商”，但是所谓“情商”不是花言巧语去取悦他人，而是尊重他人的感受。
+- “你们杀了我，除非上帝给你们派过来别人，否则，就没人唤醒你们了。”苏格拉底不在意别人是不是喜欢他，只在乎他的言论是不是把truth讲了出来。
+- 苏格拉底通过自己的逻辑辩论，让许多人知道自己无知。这种方式无可厚非，但这么做会遭到别人的仇恨，即使这么做会处于危险当中。
+- 难道苏格拉底不知道和别人辩论会遭人记恨吗？为什么他还要这么做呢？因为苏格拉底认为，让一个人知道自己无知是他作为知识分子的责任，不应该因为有这样的风险而拒绝做这样的事情。
+- 虽然他知道后果，也不是情商低，只不过作为知识分子，他觉得有必要去警醒大众，作为知识分子、哲学家的使命感。
+- 另外，如何艺术地说出真相？
+  - 分情况来考虑。从社会大众角度考虑，坦白的真相往往有刺激性，反而那些花言巧语，可以麻痹大部分人的情绪的言论，才被大多数人喜欢。但是这样的花言巧语知识言语的蜜糖，社会的砒霜。
+  - 知识分子的讲话一方面需要尊重社会民众，同时需要直面真相，指出真相，对社会要有警醒作用。苏格拉底讲的就是这类言论。
+  - 从日常的交流角度考虑，如果这类交流不涉及真理，不涉及是非，不涉及大是大非，反而确实不需要事事斤斤计较，更需要去照顾他人的情绪。比如，夫妻之间或者朋友之间，不需要什么讨论都需要以逻辑为基础，挣得面红耳赤，这样生活会比较无趣。人与人之间交往需要“情商”，但是所谓“情商”不是花言巧语去取悦他人，而是尊重他人的感受。
 
 
 ##### The view for death 对死亡的看法
