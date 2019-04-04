@@ -10,14 +10,21 @@
 
 - > At first this philosophy was physical; it looked out upon the material world and asked what was the final and irreducible constituent of things.
   - 哲学刚开始是物理：物质的最小形式是什么。
-  - > Deiriocritus(460 - 360 BC): in reality there is nothirig but atoms and space.
+  - Deiriocritus(460 - 360 BC): in reality there is nothirig but atoms and space.
     - 德谟克利特的原子论：世界是由原子组成的。
+    
+- Politics
+  - Rousseau: In politick they divided into two schools. One, like Rousseau, argued that nature is good, and civilizatiori bad; that by nature all men are equal, becoming unequal orily by class-made institutions and that law is an invention of the strong to chain and rule the weak.
+    - 卢梭：人之初，性本善，认为人生而平等，法律让强者恒强，弱者恒弱。
+    - [ ] 论人类起源的不平等
+  - Nietzsche:  claimed that nature is beyond good and evil; that by nature all men are unequal; that morality is an invention of the weak to limit and deter the strong; that power is the supreme virtue and the supreme desire of man; and that of all forms of government the wisest and most natural is aristocracy.
+    - 尼采：人从生下来就不平等。所谓的仁义道德是弱者限制强者的，弱者不能用道德绑架强者，所以掌权者一定要是贵族制。 
 
 - 对于'人'的关注，是哲学与科学的第一次分野。
+- 伯罗奔尼撒战败后，雅典有寡头30人统治。领导者是Critias（460 － 403 BC）克里提亚斯，是苏格拉底的学生，也是柏拉图的叔叔。
 
-- Politics
-  - Rousseau卢梭【论人类起源的不平等】：人之初，性本善，认为人生而平等，法律让强者恒强，弱者恒弱。
-  - Nietzsche尼采：人从生下来就不平等。所谓的仁义道德是弱者限制强者的，弱者不能用道德绑架强者，所以掌权者一定要是贵族制。
+### Biography of Socrates
+
 
 ### Ideas
 
