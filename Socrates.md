@@ -12,21 +12,17 @@ Socrates is the fater of Greek philosophy.
 
 > Probably the traders were the first sceptics; they had seen too much to believe too much; and the general disposition of merchants to classify all men as either fools or knaves inclined them to question every creed. Gradually too, they were developing science; mathematics grew with the increasing complexity of exchange, astronomy with the increasing audacity of navigation. The growth of wealth brought the leisure and security which are the prerequisite of research and speculation; men now asked the stars not only for guidance on the seas but as well for an answer to the riddles of the universe; thefirst Greek philosophers were astronomers. "Proud of their achievements," says Aristotle "men pushed farther afield after the Persian wars; they took all knowledge lot their province, and sought ever wider studies." Men grew bold enough to attempt nat- ural explanations of processes arid events before attributed to supernatural agencies arid powers ; magic and ritual slowly gave way to science and control; and philosophy began.
 
-那时的商人也许是第一批怀疑论者，他们见多识广，也就对一切都不肯轻易相信。而商人的习惯是把所有人都视为傻瓜和无赖，这使他们对各种思想一律持怀疑态度。因为有了他们，科学也逐渐得到了发展——日趋复杂的交换产生了数学，航海上的大胆探索使得天文学有了长足的进步。财富的增长带来了舒适的生活，而这正是学术研究的保障。现在人们对于日月星辰的要求不再仅仅是为海上航行指引方向，而且也要求它们为自己寻找宇宙之谜提供答案。人们探索奥秘的勇气越来越大，对各种事物总要尝试进行一番合乎自然规律的解释，然后才肯把各种事件的原因归诸于超自然力。当魔鬼和宗教仪式逐渐让位于科学和对自然的掌控，哲学也就随之诞生了。
-
+- 商人可能是第一批怀疑论者，他们见多识广，也就对一切都不肯轻易相信。
 - 自然对数的出现：复利增长的最后稳定到一个值，是自然对数。
+- 航海上的大胆探索使得天文学有了长足的进步。
+- 财富的增长带来了舒适的生活，而这正是学术研究的保障。
+
+现在人们对于日月星辰的要求不再仅仅是为海上航行指引方向，而且也要求它们为自己寻找宇宙之谜提供答案。人们探索奥秘的勇气越来越大，对各种事物总要尝试进行一番合乎自然规律的解释，然后才肯把各种事件的原因归诸于超自然力。当魔鬼和宗教仪式逐渐让位于科学和对自然的掌控，哲学也就随之诞生了。
 
 - At first this philosophy was physical; it looked out upon the material world and asked what was the final and irreducible constituent of things.
   - 哲学刚开始是物理：物质的最小形式是什么。
   - Deiriocritus(460 - 360 BC): in reality there is nothirig but atoms and space.
     - 德谟克利特的原子论：世界是由原子组成的。
-    
-- Politics
-  - Rousseau: In politick they divided into two schools. One, like Rousseau, argued that nature is good, and civilizatiori bad; that by nature all men are equal, becoming unequal orily by class-made institutions and that law is an invention of the strong to chain and rule the weak.
-    - 卢梭：人之初，性本善，认为人生而平等，法律让强者恒强，弱者恒弱。
-    - [ ] 论人类起源的不平等
-  - Nietzsche:  claimed that nature is beyond good and evil; that by nature all men are unequal; that morality is an invention of the weak to limit and deter the strong; that power is the supreme virtue and the supreme desire of man; and that of all forms of government the wisest and most natural is aristocracy.
-    - 尼采：人从生下来就不平等。所谓的仁义道德是弱者限制强者的，弱者不能用道德绑架强者，所以掌权者一定要是贵族制。 
 
 - 在长达三十年的伯罗奔尼撒战争(公元前430-公元前400年)中，斯巴达的陆军与雅典的海军进行了激战，最后大获全胜。雅典寡头政党提出废除民主政体，因为它在战争中显得很无能。他们宣布对在那场灾难性的战争中处于统治地位的民主党进行一次贵族革命。雅典寡头政党领导者是Critias（460 － 403 BC）克里提亚斯，是苏格拉底的学生，也是柏拉图的叔叔。
   - Peloponnesian war 伯罗奔尼撒战争史是研究国际关系的最经典的原材料。
